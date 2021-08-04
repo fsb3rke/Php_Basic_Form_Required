@@ -34,7 +34,6 @@
     <button type="submit" class="btn btn-primary">Submit</button>
     </form>
     <br><br><br><br>
-    <iframe style="border-radius: 15px 50px 30px;" src="https://itch.io/embed/1122270?bg_color=000000&amp;fg_color=ffffff&amp;link_color=3b3b3b&amp;border_color=ff3737" width="552" height="167" frameborder="0"><a href="https://fsb3rke.itch.io/mafiasystemerror">MafiaSystemError by fsb3rke</a></iframe>
     </center>
 </body>
 </html>
